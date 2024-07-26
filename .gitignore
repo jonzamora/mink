@@ -1,1 +1,3 @@
 scripts/
+mink/__pycache__/
+mink/**/__pycache__/
